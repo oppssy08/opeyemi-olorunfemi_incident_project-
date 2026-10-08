@@ -2,8 +2,8 @@
 
 An interactive Streamlit dashboard that I built to analyse recorded incidents in Nigeria: road crashes, banditry, flooding, insurgency-related clashes and more. I started with a Jupyter notebook analysis and then turned it into a dashboard anyone can explore with filters, charts and a downloadable table.
 
-> **Live app:** _add your Streamlit link here after deploying_
-> **Author:** Opeyemi
+> **Live app:** https://nigeria-incidents-project-by-opeyemi.streamlit.app
+> **Author:** Opeyemi Olorunfemi
 
 ---
 
@@ -27,7 +27,7 @@ The data is a CSV file (`incidents_updated.csv`) with **10,978 records** and 5 c
 
 | Column | Meaning |
 |---|---|
-| `Identifier` | Unique incident ID (e.g. `IBD031681`) |
+| `Identifier` | Unique incident ID  |
 | `Title` | Short description with the location at the end (e.g. `Auto Crash, Lagos`) |
 | `Start date` | Date the incident began |
 | `End date` | Date the incident ended |
