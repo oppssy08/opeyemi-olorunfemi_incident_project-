@@ -151,5 +151,5 @@ Keep `incidents_updated.csv` in the same folder as `app.py`. If it is missing, t
 ## 12. My Contact
 
 
-GitHub: https://github.com/oppssy08/opeyemi-olorunfemi_incident_project-/upload
+GitHub: https://github.com/oppssy08/opeyemi-olorunfemi_incident_project-
 Email: opeyemi.olorunfemi81@gmail.com
